@@ -1,0 +1,3 @@
+[submodule "bibazu_example_data"]
+	path = bibazu_example_data
+	url = https://github.com/match-Aero/bibazu_example_data.git
