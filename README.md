@@ -14,6 +14,13 @@ This package contains code for training convoluted neural networks to be used in
 ## Local
 use the `bibazu_ml_training.ipynb` notebook
 
+## Required Installations (bracketed is a working combination of versions):
++ Python3 (3.11)
++ Matplotlib (3.5.1)
++ Numpy (1.23.5)
++ Tensorflow (2.17)
++ scikit-learn (1.5.1)
+
 ## Google Colab
 1. open the colab notebook in google colab: http://colab.research.google.com/github/match-Aero/bibazu_cnn_training/blob/main/bibazu_ml_training_colab.ipynb
 2. save it locally, to your own github or google drive to save changes
