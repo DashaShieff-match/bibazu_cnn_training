@@ -28,4 +28,3 @@ Required Installations for the Local Branch (working combination):
 4. customize dataset path variables "synthetic_ds_path" and "real_ds_path"
 5. do training
 6. export your trained neural networks
-jfjadlfjal
