@@ -14,8 +14,8 @@ This package contains code for training convoluted neural networks to be used in
 ## Local
 use the `bibazu_ml_training.ipynb` notebook
 
-## Required Installations (bracketed is a working combination of versions):
-+ Python3 (3.11)
+Required Installations for the Local Branch (working combination):
++ Python3 (3.10.12)
 + Matplotlib (3.5.1)
 + Numpy (1.23.5)
 + Tensorflow (2.17)
