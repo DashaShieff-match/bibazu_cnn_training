@@ -29,4 +29,3 @@ Required Installations for the Local Branch (working combination):
 5. do training
 6. export your trained neural networks
 
-check here
